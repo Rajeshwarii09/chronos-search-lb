@@ -1,0 +1,7 @@
+﻿*.exe
+*.obj
+*.o
+run_all.py
+run_bench.py
+__pycache__/
+*.pyc
